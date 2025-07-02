@@ -8,7 +8,7 @@ It provides real-time feedback and suggestions to create strong, secure password
 - Real-time password strength meter
 - Criteria checklist (length, uppercase, lowercase, numbers, symbols)
 - Suggestions to improve security
-- "Generate Very Strong Password" button
+- "Generate Strong Password" button
 - Clean, responsive UI design
 
 ## Technologies Used
