@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/password-strength-checker/static/css/main.988b409b.css",
+    "main.js": "/password-strength-checker/static/js/main.0a7eb713.js",
+    "static/js/453.a3c1d153.chunk.js": "/password-strength-checker/static/js/453.a3c1d153.chunk.js",
+    "index.html": "/password-strength-checker/index.html",
+    "main.988b409b.css.map": "/password-strength-checker/static/css/main.988b409b.css.map",
+    "main.0a7eb713.js.map": "/password-strength-checker/static/js/main.0a7eb713.js.map",
+    "453.a3c1d153.chunk.js.map": "/password-strength-checker/static/js/453.a3c1d153.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.988b409b.css",
+    "static/js/main.0a7eb713.js"
+  ]
+}
